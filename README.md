@@ -4,7 +4,7 @@
 
 The Smart Silo project represents a cutting-edge IoT-based storage system designed specifically for the long-term preservation of onions. Utilizing a combination of automatic shuffling mechanisms and regulated ventilation, Smart Silo maintains optimal pressure and humidity levels to prevent rot, thereby extending the storage life of onions. The entire system is controlled and monitored remotely via an app, thanks to Firebase integration, and is crafted to be cost-effective and maintenance-friendly.
 
-![Smart Silo System]([image-link-placeholder](https://github.com/vedantk91/Smart-Silo/blob/main/Thumbnail.jpg))
+![Smart Silo System]([https://github.com/vedantk91/Smart-Silo/blob/main/Thumbnail.jpg])
 
 ## Features
 
