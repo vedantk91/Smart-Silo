@@ -27,4 +27,4 @@ The Smart Silo project represents a cutting-edge IoT-based storage system design
 To add images to this README, upload your files to a hosting service and use the Markdown format below to include them in the document:
 
 ```markdown
-[![Description of the image](url-of-the-image)](https://github.com/vedantk91/Smart-Silo/blob/main/Thumbnail.jpg)https://github.com/vedantk91/Smart-Silo/blob/main/Thumbnail.jpg
+![Description of the image]((https://github.com/vedantk91/Smart-Silo/blob/main/Thumbnail.jpg)https://github.com/vedantk91/Smart-Silo/blob/main/Thumbnail.jpg)
